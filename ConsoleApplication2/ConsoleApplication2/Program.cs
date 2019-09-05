@@ -16,6 +16,7 @@ namespace ConsoleApplication2
             Console.WriteLine("Feature3.2");
             Console.WriteLine("Sending Pull Request5");
             Console.ReadLine();
+            NewClass.Something();
         }
     }
 }

@@ -11,11 +11,16 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+<<<<<<< HEAD
+            Console.WriteLine("2.2");
+            Console.WriteLine("Feature3.1");
+            Console.WriteLine("This is a bugfix");
+=======
             Console.WriteLine("Feature1");
             Console.WriteLine("2.4");
             Console.WriteLine("Feature3.2");
             Console.WriteLine("Sending Pull Request5");
-            Speaker.SpeakSomething("Well this is new!");
+>>>>>>> Release
             Console.ReadLine();
         }
     }

@@ -10,7 +10,7 @@ namespace ConsoleApplication2
     {
         public static void SpeakSomething(string something)
         {
-            Console.WriteLine(something);
+            Console.WriteLine(something + " " + something);
         }
     }
 }

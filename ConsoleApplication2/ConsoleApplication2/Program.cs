@@ -12,7 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Feature1");
-            Console.WriteLine("2.2");
+            Console.WriteLine("2.4");
             Console.WriteLine("Feature3.2");
             Console.WriteLine("Sending Pull Request5");
             Console.ReadLine();

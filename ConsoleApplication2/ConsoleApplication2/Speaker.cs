@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         public static void SpeakSomething(string something)
         {
             Console.WriteLine(something + " " + something);
+            Console.WriteLine(something);
         }
     }
 }
